@@ -35,9 +35,9 @@ Java-based operating system project.
 ---
 
 ## Tech Stack ⚙️
-**Languages:** Java • Python • C++ • JavaScript
-**Frameworks:** React • Node.js • Firebase • Express 
-**Tools:** GitHub • VS Code • Linux/Unix • Google Cloud Platform
+**Languages:** Java • Python • C++ • JavaScript  
+**Frameworks:** React • Node.js • Firebase • Express   
+**Tools:** GitHub • VS Code • Linux/Unix • Google Cloud Platform  
 
 ---
 
