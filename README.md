@@ -5,7 +5,7 @@ Software Engineer with experience building backend and full-stack applications u
 ## Projects 🚀
 
 ### CareerPath 
-Full-stack job tracking application built with React and Firebase.
+Full-stack job tracking application built with React, CSS, and Firebase.
 - Manages job applications and interview workflows
 - Includes resume parsing and keyword matching against job descriptions
 - Features a time-aware interview scheduler with automated status updates
