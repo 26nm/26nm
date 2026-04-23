@@ -2,8 +2,6 @@
 Computer Science graduate from the University of Washington.
 Software Engineer with experience building backend and full-stack applications using Java, C++, and JavaScript.
 
-🔗 https://nolandelarosa.com
-
 ## Projects 🚀
 
 ### CareerPath 
