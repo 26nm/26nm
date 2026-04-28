@@ -15,16 +15,6 @@ Backend system for processing and standardizing alumni datasets (Kapwa Codefest 
 - Built with Node.js, Express, and PapaParse
 - Handles CSV ingestion, transformation, and batch export
 
-### Inventory Tracker
-C++ application for managing movie inventory and rentals.
-- Uses object-oriented design and file I/O
-- Simulates real-world store operations
-
-### FIle System Simulator
-Java-based operating system project.
-- Implements a custom file system abstraction
-- Supports persistent data storage and stream-like read/write operations
-
 ---
 
 ## Currently 🧠
