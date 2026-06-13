@@ -1,5 +1,5 @@
 # Nolan Dela Rosa
-Computer Science graduate from the University of Washington.
+Computer Science graduate from the University of Washington and incoming M.S CS at Seattle University.
 Software Engineer with experience building backend and full-stack applications using Java, C++, and JavaScript.
 
 ## Projects 🚀
